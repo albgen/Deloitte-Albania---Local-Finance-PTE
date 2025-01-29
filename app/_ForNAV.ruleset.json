@@ -1,0 +1,62 @@
+{
+    "name": "ForNAV",
+    "description": "ForNAV Rules",
+    "generalAction": "Hidden",
+    "rules": [
+        {
+            "id": "AA0218",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AA0136",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AS0085",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AS0084",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AA0072",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AA0207",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AA0232",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AS0092",
+            "action": "Hidden",
+            "justification": "Don't want to implement Azure Insight"
+        },
+        {
+            "id": "AW0006",
+            "action": "None",
+            "justification": "Removing infos"
+        },
+        {
+            "id": "AW0011",
+            "action": "None",
+            "justification": "Removing infos"
+        },
+        {
+            "id": "AA0215",
+            "action": "None",
+            "justification": "We use CRS naming file"
+        }
+    ]
+}

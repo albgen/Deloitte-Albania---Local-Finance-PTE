@@ -1,0 +1,31 @@
+{
+  "id": "16407938-5298-4a1c-9852-385f7c1210da",
+  "name": "Deloitte Albania - Local Finance PTE",
+  "publisher": "Smartwork",
+  "brief": "Deloitte Albania and Kosova - Local Finance PTE",
+  "description": "Deloitte Albania and Kosova - Local Finance PTE",
+  "version": "22.0.0.1",
+  "privacyStatement": "https://smartworknet.eu/",
+  "EULA": "https://smartworknet.eu/",
+  "help": "https://smartworknet.eu/",
+  "contextSensitiveHelpUrl": "https://smartworknet.eu/",
+  "url": "https://smartworknet.eu/",
+  "logo": "resources/DeloitteAlbaniaApp-Logo.png",
+  "application": "22.0.0.0",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 51640,
+      "to": 51660
+    },
+    { 
+      "from": 81640,
+      "to": 81660
+    }
+  ],
+  "runtime": "7.2",
+  "features": ["TranslationFile"],
+  "showMyCode": true
+}

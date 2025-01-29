@@ -1,0 +1,15 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${AppSourceCop}",
+        "${CodeCop}",
+        "${UICop}"
+    ],
+    "al.ruleSetPath": "_ForNAV.ruleset.json",
+    "CRS.FileNamePattern": "<ObjectId>.<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectId>.<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectId>.<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    //"CRS.OnSaveAlFileAction": "Reorganize",
+    "CRS.OnSaveAlFileAction": "DoNothing",
+    "CRS.ObjectNamePrefix": "Smw"
+}
